@@ -18,6 +18,6 @@ export default function index() {
 
 const styles = StyleSheet.create({
   appbar: {
-    backgroundColor: "black",
+    backgroundColor: "purple",
   },
 });
